@@ -87,3 +87,15 @@ i {
 .pagination a {
   color: #265778;
 }
+
+kbd {
+  padding: 2px 5px;
+  background-color: white;
+  border: 1px solid gray;
+  color: black;
+  border-radius: 2px;
+}
+
+li {
+  margin-bottom: 4px;
+}
